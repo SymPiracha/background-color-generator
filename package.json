@@ -4,7 +4,8 @@
   "description": "",
   "main": "script.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "l-s": "live-server"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/SymPiracha/background-color-generator/issues"
   },
-  "homepage": "https://github.com/SymPiracha/background-color-generator#readme"
+  "homepage": "https://github.com/SymPiracha/background-color-generator#readme",
+  "dependencies": {
+    "lodash": "^1.2.0"
+  }
 }
