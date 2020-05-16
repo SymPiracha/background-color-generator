@@ -1,1 +1,1 @@
-# background-color-generator
+# gradient-color-generator
