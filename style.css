@@ -1,6 +1,26 @@
 body {
-	background:linear-gradient(to right, purple,blue);
+	font: 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    top: 15%;
+	background: linear-gradient(to right, purple , blue); /* Standard syntax */
 }
-h1,h3 {
+h1{
 	font-family: "Lucida Console", Courier, monospace;
+	color: rgba(0,0,0,0.5);
+}
+h3 {
+    letter-spacing: 0.01em;
+    font-family: "Lucida Console", Courier, monospace;
+	color: rgba(0,0,0,0.5);
+}
+.button {
+    background-color: grey;
+    color: black;
+    border: 2px solid rgba(0,0,0,0.5);
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+    border-radius: 12px;
 }
