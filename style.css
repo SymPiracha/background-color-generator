@@ -16,7 +16,7 @@ h3 {
     font-family: "Lucida Console", Courier, monospace;
 	color: rgba(0,0,0,0.5);
 }
-.button {
+#random {
     background-color: grey;
     color: black;
     border: 2px solid rgba(0,0,0,0.5);
