@@ -29,6 +29,6 @@ function setRandomGradient(){
 	+ ", " 
 	+ "#" + randomColor2 
 	+ ")";
-	css.textContent = "Gradient: " + color1.value + " to " + color2.value;
+	css.textContent = "Gradient: " + randomColor1 + " to " + randomColor2;
 }
 
